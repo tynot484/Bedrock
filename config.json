@@ -1,0 +1,25 @@
+{
+  "host": "ektebserverna.aternos.me",
+  "port": 29657,
+  "username": "Youssef(;",
+  "offline": true,
+
+  "human": {
+    "minDelay": 3000,
+    "maxDelay": 16000,
+    "idleChance": 0.35,
+    "moveChance": 0.45,
+    "cameraChance": 0.20
+  },
+
+  "chat": {
+    "enabled": true,
+    "chance": 0.08,
+    "replies": ["hi", "سلام", "?", "lol", "brb"]
+  },
+
+  "reconnect": {
+    "min": 8000,
+    "max": 20000
+  }
+}
